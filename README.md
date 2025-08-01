@@ -47,11 +47,11 @@ This repository contains the main algorithm files:
 Here is the robot in action:
 
 <p align="center">
-  <img src="images/robot.jpg" width="400">
+  <img src="images/Robot.jpeg" width="400">
 </p>
 
 <p align="center">
-  <img src="images/robot_1.jpg" width="400">
+  <img src="images/Robot_1.jpeg" width="400">
 </p>
 
 
