@@ -54,11 +54,6 @@ Here is the robot in action:
   <img src="images/Robot_1.jpeg" width="400">
 </p>
 
-
-
-###  Video Demo
-[▶ Watch on YouTube]()
-
 ---
 
 ## License
