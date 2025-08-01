@@ -32,3 +32,36 @@ How It Works
 4.Applies Pure Pursuit formula to compute curvature.
 5.Sends steering commands via serial to control the robot.
 
+---
+
+## Code Overview
+This repository contains the main algorithm files:
+- **src/line_tracker.cpp** – Implements line detection and Pure Pursuit steering.
+- (Optional) **src/multi_row_version.cpp** – Enhanced version with multiple rows for better path prediction.
+
+> Note: This is the core logic only and does not include full ROS2 package configuration.
+
+---
+
+##  Images 
+Here is the robot in action:
+
+<p align="center">
+  <img src="images/robot.jpg" width="400">
+</p>
+
+<p align="center">
+  <img src="images/robot_1.jpg" width="400">
+</p>
+
+
+
+###  Video Demo
+[▶ Watch on YouTube]()
+
+---
+
+## License
+MIT License. Feel free to use and modify.
+
+---
